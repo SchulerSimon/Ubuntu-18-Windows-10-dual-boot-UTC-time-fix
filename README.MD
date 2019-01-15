@@ -1,8 +1,11 @@
 # This is an easy fix for the UTC problem when working with dualboot
 
 open Terminal (CRTL+ALT+T)
+
 type `timedatectl set-local-rtc 1 --adjust-system-clock`
+
 enter
+
 type `timedatectl`
 
 
