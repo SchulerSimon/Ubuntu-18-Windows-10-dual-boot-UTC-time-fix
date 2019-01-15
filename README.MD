@@ -6,7 +6,7 @@ type `timedatectl set-local-rtc 1 --adjust-system-clock`
 
 enter
 
-type `timedatectl`
+type `timedatectl` to check if it worked
 
 
 or just run script.sh
